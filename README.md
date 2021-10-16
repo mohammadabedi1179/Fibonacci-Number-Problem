@@ -24,3 +24,20 @@ Output: n-th Fibonacci number
 modulo m.
 
 fourth code
+Last Digit of the Sum of Fibonacci Numbers Problem
+Compute the last digit of F0 + F1 + ··· + Fn.
+Input: A non-negative integer n.
+Output: The last digit of F0 + F1 +··· + Fn.
+
+fifth code
+Last Digit of the Partial Sum of Fibonacci
+Numbers Problem
+Compute the last digit of Fm + Fm+1 + ··· + Fn.
+Input: Non-negative integers m ≤n.
+Output: The last digit of Fm + Fm+1 + ··· + Fn.
+
+sixth code
+Last Digit of the Sum of Squares of Fibonacci Numbers Problem
+Compute the last digit of (F0)^2 + (F1)^2 + ··· + (Fn)^2.
+Input: An integer n.
+Output: The last digit of (F0)^2 + (F1)^2 +··· + (Fn)^2
